@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/nidhichaura/LeetCode-solution/tree/master/1773-count-items-matching-a-rule) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nidhichaura/LeetCode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nidhichaura/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nidhichaura/LeetCode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nidhichaura/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nidhichaura/LeetCode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
