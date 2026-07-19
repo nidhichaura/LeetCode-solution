@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1470-shuffle-the-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nidhichaura/LeetCode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/nidhichaura/LeetCode-solution/tree/master/1773-count-items-matching-a-rule) |
@@ -124,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nidhichaura/LeetCode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nidhichaura/LeetCode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
