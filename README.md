@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1470-shuffle-the-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
