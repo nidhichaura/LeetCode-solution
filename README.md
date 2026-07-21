@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/nidhichaura/LeetCode-solution/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1470-shuffle-the-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1470-shuffle-the-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
