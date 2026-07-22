@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nidhichaura/LeetCode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/nidhichaura/LeetCode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
