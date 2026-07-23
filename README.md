@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/nidhichaura/LeetCode-solution/tree/master/2427-number-of-common-factors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3516-find-closest-person](https://github.com/nidhichaura/LeetCode-solution/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nidhichaura/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nidhichaura/LeetCode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
