@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/nidhichaura/LeetCode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/nidhichaura/LeetCode-solution/tree/master/2427-number-of-common-factors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
