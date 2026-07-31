@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nidhichaura/LeetCode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nidhichaura/LeetCode-solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nidhichaura/LeetCode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
