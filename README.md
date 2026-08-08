@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/1207-unique-number-of-occurrences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/nidhichaura/LeetCode-solution/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/0905-sort-array-by-parity) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nidhichaura/LeetCode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
