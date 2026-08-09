@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/3467-transform-array-by-parity) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nidhichaura/LeetCode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nidhichaura/LeetCode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
