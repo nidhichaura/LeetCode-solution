@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nidhichaura/LeetCode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/3467-transform-array-by-parity) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nidhichaura/LeetCode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/nidhichaura/LeetCode-solution/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nidhichaura/LeetCode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/nidhichaura/LeetCode-solution/tree/master/3516-find-closest-person) |
