@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/nidhichaura/LeetCode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1122-relative-sort-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
