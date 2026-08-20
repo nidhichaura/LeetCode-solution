@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/nidhichaura/LeetCode-solution/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nidhichaura/LeetCode-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichaura/LeetCode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nidhichaura/LeetCode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
