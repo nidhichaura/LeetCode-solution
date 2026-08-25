@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nidhichaura/LeetCode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1480-running-sum-of-1d-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nidhichaura/LeetCode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nidhichaura/LeetCode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/nidhichaura/LeetCode-solution/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/1207-unique-number-of-occurrences) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nidhichaura/LeetCode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nidhichaura/LeetCode-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhichaura/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nidhichaura/LeetCode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3467-transform-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nidhichaura/LeetCode-solution/tree/master/3536-maximum-product-of-two-digits) |
