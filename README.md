@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/nidhichaura/LeetCode-solution/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/nidhichaura/LeetCode-solution/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nidhichaura/LeetCode-solution/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -291,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/nidhichaura/LeetCode-solution/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nidhichaura/LeetCode-solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
