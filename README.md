@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nidhichaura/LeetCode-solution/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhichaura/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nidhichaura/LeetCode-solution/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
