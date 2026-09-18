@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nidhichaura/LeetCode-solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0657-robot-return-to-origin](https://github.com/nidhichaura/LeetCode-solution/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nidhichaura/LeetCode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
