@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/nidhichaura/LeetCode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nidhichaura/LeetCode-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nidhichaura/LeetCode-solution/tree/master/0876-middle-of-the-linked-list) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/nidhichaura/LeetCode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nidhichaura/LeetCode-solution/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
