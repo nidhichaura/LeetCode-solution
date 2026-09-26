@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nidhichaura/LeetCode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/nidhichaura/LeetCode-solution/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhichaura/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nidhichaura/LeetCode-solution/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichaura/LeetCode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
