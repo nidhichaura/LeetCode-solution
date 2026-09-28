@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nidhichaura/LeetCode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/nidhichaura/LeetCode-solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/nidhichaura/LeetCode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhichaura/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/nidhichaura/LeetCode-solution/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
