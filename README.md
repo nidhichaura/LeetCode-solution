@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nidhichaura/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nidhichaura/LeetCode-solution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nidhichaura/LeetCode-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/nidhichaura/LeetCode-solution/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nidhichaura/LeetCode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/nidhichaura/LeetCode-solution/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/nidhichaura/LeetCode-solution/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nidhichaura/LeetCode-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/nidhichaura/LeetCode-solution/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/nidhichaura/LeetCode-solution/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nidhichaura/LeetCode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
