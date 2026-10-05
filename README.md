@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nidhichaura/LeetCode-solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nidhichaura/LeetCode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhichaura/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/nidhichaura/LeetCode-solution/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/nidhichaura/LeetCode-solution/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
