@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nidhichaura/LeetCode-solution/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/nidhichaura/LeetCode-solution/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/nidhichaura/LeetCode-solution/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/nidhichaura/LeetCode-solution/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nidhichaura/LeetCode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nidhichaura/LeetCode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nidhichaura/LeetCode-solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nidhichaura/LeetCode-solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nidhichaura/LeetCode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nidhichaura/LeetCode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nidhichaura/LeetCode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nidhichaura/LeetCode-solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nidhichaura/LeetCode-solution/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
