@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nidhichaura/LeetCode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhichaura/LeetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nidhichaura/LeetCode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nidhichaura/LeetCode-solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nidhichaura/LeetCode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nidhichaura/LeetCode-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nidhichaura/LeetCode-solution/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/nidhichaura/LeetCode-solution/tree/master/0401-binary-watch) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nidhichaura/LeetCode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nidhichaura/LeetCode-solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nidhichaura/LeetCode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nidhichaura/LeetCode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nidhichaura/LeetCode-solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/nidhichaura/LeetCode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nidhichaura/LeetCode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/nidhichaura/LeetCode-solution/tree/master/0905-sort-array-by-parity) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nidhichaura/LeetCode-solution/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichaura/LeetCode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nidhichaura/LeetCode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
