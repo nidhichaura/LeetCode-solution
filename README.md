@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichaura/LeetCode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/nidhichaura/LeetCode-solution/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/nidhichaura/LeetCode-solution/tree/master/0859-buddy-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/nidhichaura/LeetCode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nidhichaura/LeetCode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nidhichaura/LeetCode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nidhichaura/LeetCode-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nidhichaura/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/nidhichaura/LeetCode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nidhichaura/LeetCode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nidhichaura/LeetCode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nidhichaura/LeetCode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nidhichaura/LeetCode-solution/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/nidhichaura/LeetCode-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Z Algorithm
 |  |
 | ------- |
