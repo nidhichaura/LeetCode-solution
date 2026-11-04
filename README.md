@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nidhichaura/LeetCode-solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nidhichaura/LeetCode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/nidhichaura/LeetCode-solution/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/nidhichaura/LeetCode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nidhichaura/LeetCode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nidhichaura/LeetCode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nidhichaura/LeetCode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
